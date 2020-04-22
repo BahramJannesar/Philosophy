@@ -8,4 +8,4 @@ With any topic you start and click on the first link in each page . After many a
 [Test it here , Start with random article](https://en.wikipedia.org/wiki/Special:Random)
 
 # License
-See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License 
+See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License
